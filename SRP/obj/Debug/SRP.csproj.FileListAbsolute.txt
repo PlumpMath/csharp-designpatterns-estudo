@@ -1,0 +1,5 @@
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\SRP\bin\Debug\SRP.exe.config
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\SRP\bin\Debug\SRP.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\SRP\bin\Debug\SRP.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\SRP\obj\Debug\SRP.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\SRP\obj\Debug\SRP.pdb

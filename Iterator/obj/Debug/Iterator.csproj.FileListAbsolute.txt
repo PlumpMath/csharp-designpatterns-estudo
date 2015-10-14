@@ -1,0 +1,6 @@
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

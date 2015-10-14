@@ -1,0 +1,5 @@
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

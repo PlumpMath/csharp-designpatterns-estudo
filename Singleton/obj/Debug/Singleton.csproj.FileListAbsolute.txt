@@ -1,0 +1,6 @@
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
