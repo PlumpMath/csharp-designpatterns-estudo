@@ -1,0 +1,6 @@
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Murilo\documents\visual studio 2013\Projects\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
